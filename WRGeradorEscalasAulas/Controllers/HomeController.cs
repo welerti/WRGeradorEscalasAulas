@@ -17,7 +17,7 @@ namespace WRGeradorEscalasAulas.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Teste git hub.";
 
             return View();
         }
