@@ -24,7 +24,7 @@ namespace WRGeradorEscalasAulas.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "teste Contato git hub.";
 
             return View();
         }
